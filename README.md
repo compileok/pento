@@ -1,3 +1,3 @@
 # Pento
 
-Just a demo.
+"Programming Phoenix LiveView" book project.
